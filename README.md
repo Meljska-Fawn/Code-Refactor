@@ -20,4 +20,4 @@ Myself and UW Bootcamp
 
 (Please refer to the LICENSE in the repo.)
 
-<img src="/Users/meljska/Bootcamp1/Projects/Code-Refactor/assets/images/horiseon.png" width="50%" height="50%">
+<img src="./assets/images/horiseon.png" width="50%" height="50%">
