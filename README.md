@@ -14,8 +14,10 @@ You can review the HTML and CSS using Chrome DevTools. You can open Chrome DevTo
 
 ## Credits
 
-N/A
+Myself and UW Bootcamp
 
 ## License
 
 (Please refer to the LICENSE in the repo.)
+
+<img src="/Users/meljska/Bootcamp1/Projects/Code-Refactor/assets/images/horiseon.png" width="50%" height="50%">
